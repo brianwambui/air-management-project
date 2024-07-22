@@ -25,6 +25,7 @@ HMI (Human-Machine Interface)
  SCADA system for real-time monitoring and control
 Data analysis tools (e.g., Python, MATLAB)
 ## 	System Design
+**Functional requirements** define the system’s goals, features, and user interactions. **Non-functional requirements** address performance, scalability, reliability, security, usability, and maintainability. **Technical requirements** cover architecture, technology stack, and system integration. **Operational requirements** include deployment needs, support structures, and backup/recovery plans. **Legal and compliance requirements** ensure adherence to regulations. Finally, **performance metrics** set KPIs for evaluating effectiveness and efficiency.
 ## 	Prototype Development
 ## 	Cloud Integration
 ## testing and validation
