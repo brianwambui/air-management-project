@@ -23,6 +23,17 @@ Data analysis tools (e.g., Python, MATLAB)
 ## 	Cloud Integration
 ## testing and validation
 # timelime
+# Usage
+## Start the System
+Power on the PLC and HMI.
+Launch the SCADA system on the designated computer.
+## Monitor and Control
+Use the HMI to view real-time data on air pressure, flow rates, and usage.
+Adjust control parameters as needed through the HMI.
+## Maintenance
+Regularly check sensors and actuators for proper operation.
+Calibrate sensors periodically to ensure accurate readings.
+Use the leak detection feature to identify and repair any leaks promptly.
 # risk management
 ## Technical Risks
 ## project risk
