@@ -43,6 +43,7 @@ Calibrate sensors periodically to ensure accurate readings.
 Use the leak detection feature to identify and repair any leaks promptly.
 # risk management
 ## Technical Risks
+Technical risks encompasses varius factors such as the accuracy of sensors and reliability, integration issues and data processing.
 ## project risk
 ## user risk
 User risks include resistance to change, insufficient training, and system misuse. To address these, engage users early by highlighting the system's benefits and involve them in design and testing. Provide comprehensive training and support materials to ensure users understand the system. Implement a user-friendly interface with error prevention features and strict access controls. Balance automation with manual checks and offer regular feedback channels to address user concerns promptly. Regularly review and update the system based on user feedback and performance metrics to enhance user satisfaction and effectiveness.
