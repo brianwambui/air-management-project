@@ -15,9 +15,9 @@ The objective aim at Providing a user-friendly interfaces for manual adjustments
 # project scope
 ##	Requirements Analysis
 ### Hardware
-#### Pressure sensors
-#### Flow meters
-#### Valves and actuators
+Pressure sensors
+Flow meters 
+Valves and actuators
 PLC (Programmable Logic Controller)
 HMI (Human-Machine Interface)
  ### Software
