@@ -9,7 +9,9 @@ The project will maintain temperature by Maintaining a consistent and comfortabl
 The objective aim at Providing a user-friendly interfaces for manual adjustments.
 # key stake holders
 ## mechatronic engineer
+Mechatronics engineer will be useful in designing and developing of the system.
 ## software developer
+Software developer will be entitled to developa software system using a programming language that is suitable to the system.
 ## patient with SLE
 ## components supplier
 # project scope
