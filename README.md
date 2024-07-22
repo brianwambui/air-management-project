@@ -27,6 +27,7 @@ Data analysis tools (e.g., Python, MATLAB)
 ## 	System Design
 **Functional requirements** define the system’s goals, features, and user interactions. **Non-functional requirements** address performance, scalability, reliability, security, usability, and maintainability. **Technical requirements** cover architecture, technology stack, and system integration. **Operational requirements** include deployment needs, support structures, and backup/recovery plans. **Legal and compliance requirements** ensure adherence to regulations. Finally, **performance metrics** set KPIs for evaluating effectiveness and efficiency.
 ## 	Prototype Development
+is a structured process that begins with clearly defining objectives, which involves specifying what the prototype aims to achieve, such as demonstrating a concept or validating user needs. This initial phase requires gathering requirements from stakeholders to document both functional and non-functional specifications, ensuring all necessary features and constraints are identified. 
 ## 	Cloud Integration
 ## testing and validation
 # timelime
