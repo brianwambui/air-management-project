@@ -1,6 +1,10 @@
 # air-management-project
 ## The Air Management System is designed to optimize the control and distribution of compressed air in industrial environments. This project aims to improve energy efficiency, reduce operational costs, and enhance the performance of pneumatic systems.
 # objectives
+## Air Quality Improvement
+the project aims to improve the air condition of a given room by Ensuring proper ventilation to bring in fresh air and remove stale air.
+## Temperature Control
+Te project will maintain temperature by Maintaining a consistent and comfortable temperature.
 # key stake holders
 ## mechatronic engineer
 ## software developer
