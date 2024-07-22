@@ -4,7 +4,9 @@
 ## Air Quality Improvement
 the project aims to improve the air condition of a given room by Ensuring proper ventilation to bring in fresh air and remove stale air.
 ## Temperature Control
-Te project will maintain temperature by Maintaining a consistent and comfortable temperature.
+The project will maintain temperature by Maintaining a consistent and comfortable temperature.
+## System Integration and Control
+The objective aim at Providing a user-friendly interfaces for manual adjustments.
 # key stake holders
 ## mechatronic engineer
 ## software developer
